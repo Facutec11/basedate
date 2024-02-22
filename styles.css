@@ -1,0 +1,43 @@
+.title {
+    text-align: center;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.download-icon {
+    width: 200px;
+    height: auto;
+}
+
+.WinRar {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.container {
+    margin: 20 50px;
+    text-align: center;
+}
+
+.batch {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.iso {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.filename {
+    display: block;
+    font-size: 20px;
+    color: #333;
+    margin-top: 5px;
+}
